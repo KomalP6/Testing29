@@ -67,10 +67,10 @@ public static void main(String[] args) throws InterruptedException  {
 	System.out.println("fail");
 	}
 	
-//	applicationheader.Logout();
-//	driver.close();
+	applicationheader.Logout();
+	driver.close();
 	
- println("hii");
+
 	
 			
 			//test4
